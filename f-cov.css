@@ -1,7 +1,7 @@
 
 .sect-5 {
     height: 350px;
-    background: url(/img/form-cov/form-cov-black.png);
+    background: url(img/form-cov/form-cov-black.png);
 }
 .formcov {
     padding: 0px;
@@ -10,7 +10,7 @@
     height: 300px;
 }  
 .custom-block-form {
-    background: url(/local/templates/simplelandshop_themes_blue/img/covid-form-back.png) no-repeat center center; 
+    background: url(local/templates/simplelandshop_themes_blue/img/covid-form-back.png) no-repeat center center; 
     background-size: cover !important;
     padding-left: 40px;
     padding-right: 40px;
@@ -60,7 +60,7 @@
     }
     
 #name {
-    /*background-image: url(/local/templates/main/assets/img/cvform-name.png);*/
+    /*background-image: url(local/templates/main/assets/img/cvform-name.png);*/
     background-repeat: no-repeat;
     background-position: 10px center;
     }
@@ -90,7 +90,7 @@ input {
     cursor: text;
 }
 #phone {
-    /* background-image: url(/local/templates/main/assets/img/ncform-phone.png); */
+    /* background-image: url(local/templates/main/assets/img/ncform-phone.png); */
     background-repeat: no-repeat;
     background-position: 10px center;
 }
